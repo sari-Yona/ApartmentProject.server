@@ -44,7 +44,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HotelsProject.git
+   git clone https://github.com/sari-Yona/ApartmentProject.server
    cd HotelsProject
    ```
 
@@ -128,12 +128,6 @@ We welcome contributions! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact sari100375@gmail.com.
